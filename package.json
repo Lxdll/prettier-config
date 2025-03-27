@@ -18,6 +18,9 @@
   "keywords": [
     "prettier"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "Lxdll",
   "license": "ISC",
   "devDependencies": {
